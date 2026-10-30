@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img" aria-label="Guitar From Zero book cover">
+  <rect width="600" height="800" fill="#2e2622"/>
+  <rect x="0" y="0" width="22" height="800" fill="#1d1714"/>
+  <g transform="translate(400 590)">
+    <circle r="250" fill="#c98a33"/>
+    <circle r="185" fill="#9a6524"/>
+    <circle r="92" fill="#1d1714"/>
+    <circle r="108" fill="none" stroke="#e8c98f" stroke-width="5"/>
+    <circle r="124" fill="none" stroke="#e8c98f" stroke-width="2"/>
+  </g>
+  <g stroke="#f7f1e6" stroke-opacity=".9">
+    <path d="M395 800V0" stroke-width="3.4"/>
+    <path d="M409 800V0" stroke-width="2.9"/>
+    <path d="M423 800V0" stroke-width="2.4"/>
+    <path d="M437 800V0" stroke-width="1.9"/>
+    <path d="M451 800V0" stroke-width="1.4"/>
+    <path d="M465 800V0" stroke-width="1"/>
+  </g>
+  <g fill="#f7f1e6" font-family="Georgia, 'Times New Roman', serif">
+    <text x="64" y="84" font-size="20" letter-spacing="3" fill="#e8c98f">EBOOK + 23 VIDEOS</text>
+    <text x="64" y="176" font-size="84" font-weight="700">Guitar</text>
+    <text x="64" y="264" font-size="84" font-weight="700">From</text>
+    <text x="64" y="352" font-size="84" font-weight="700">Zero</text>
+  </g>
+</svg>
